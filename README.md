@@ -2,5 +2,5 @@
 
 ## Este repositorio foi criado para praticar versionamento de código.
 
-## Nova Feature
-## Alteração feita na branch feature/teste
+## Nova feature
+## Alteração feita na branch feature/teste.
